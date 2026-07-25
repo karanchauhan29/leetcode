@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/karanchauhan29/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/karanchauhan29/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karanchauhan29/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Matrix
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanchauhan29/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/karanchauhan29/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
