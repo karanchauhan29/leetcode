@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karanchauhan29/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/karanchauhan29/leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/karanchauhan29/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanchauhan29/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/karanchauhan29/leetcode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/karanchauhan29/leetcode/tree/master/0198-house-robber) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/karanchauhan29/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Math
 |  |
