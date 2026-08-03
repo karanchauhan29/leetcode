@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/karanchauhan29/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/karanchauhan29/leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/karanchauhan29/leetcode/tree/master/0392-is-subsequence) |
 | [0790-domino-and-tromino-tiling](https://github.com/karanchauhan29/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/karanchauhan29/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/karanchauhan29/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/karanchauhan29/leetcode/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
