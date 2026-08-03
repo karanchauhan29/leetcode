@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/karanchauhan29/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanchauhan29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/karanchauhan29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/karanchauhan29/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/karanchauhan29/leetcode/tree/master/0994-rotting-oranges) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/karanchauhan29/leetcode/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/karanchauhan29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
