@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/karanchauhan29/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karanchauhan29/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/karanchauhan29/leetcode/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/karanchauhan29/leetcode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanchauhan29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/karanchauhan29/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/karanchauhan29/leetcode/tree/master/0283-move-zeroes) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
