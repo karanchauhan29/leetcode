@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/karanchauhan29/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/karanchauhan29/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
