@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/karanchauhan29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/karanchauhan29/leetcode/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/karanchauhan29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karanchauhan29/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchauhan29/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/karanchauhan29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchauhan29/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Union-Find
 |  |
