@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/karanchauhan29/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karanchauhan29/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karanchauhan29/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/karanchauhan29/leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karanchauhan29/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0392-is-subsequence](https://github.com/karanchauhan29/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karanchauhan29/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karanchauhan29/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/karanchauhan29/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/karanchauhan29/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Greedy
 |  |
