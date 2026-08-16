@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/karanchauhan29/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karanchauhan29/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karanchauhan29/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/karanchauhan29/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/karanchauhan29/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/karanchauhan29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/karanchauhan29/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karanchauhan29/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karanchauhan29/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchauhan29/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karanchauhan29/leetcode/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
 | [2542-maximum-subsequence-score](https://github.com/karanchauhan29/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/karanchauhan29/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -266,4 +270,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/karanchauhan29/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/karanchauhan29/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/karanchauhan29/leetcode/tree/master/1683-invalid-tweets) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/karanchauhan29/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
