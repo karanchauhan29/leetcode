@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karanchauhan29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karanchauhan29/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchauhan29/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karanchauhan29/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karanchauhan29/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/karanchauhan29/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/karanchauhan29/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/karanchauhan29/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/karanchauhan29/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karanchauhan29/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchauhan29/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/karanchauhan29/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karanchauhan29/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2336-smallest-number-in-infinite-set](https://github.com/karanchauhan29/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karanchauhan29/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
 | ------- |
