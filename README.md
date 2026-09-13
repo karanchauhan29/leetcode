@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/karanchauhan29/leetcode/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karanchauhan29/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/karanchauhan29/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/karanchauhan29/leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/karanchauhan29/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/karanchauhan29/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/karanchauhan29/leetcode/tree/master/0994-rotting-oranges) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karanchauhan29/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/karanchauhan29/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/karanchauhan29/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/karanchauhan29/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchauhan29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
